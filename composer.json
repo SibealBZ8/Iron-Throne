@@ -1,0 +1,21 @@
+{
+    "name": "iron-throne-hack/iron-throne-hack-mod-apk-get-unlimited-gold",
+    "description": "Iron Throne Hack Mod APK Get Unlimited Gold Cheats Generator IOS & Android",
+
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ClICK HERE to HACK Iron Throne",
+            "homepage": "http://astuces.cf/Iron-Throne/",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+   
+    "minimum-stability": "dev"
+}
